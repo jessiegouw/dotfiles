@@ -19,6 +19,7 @@ chsh -s /bin/jessiegouw-dotfiles
 ```
 
 3. __Initialize your new jessiegouw-dotfiles configuration__
+
 Once you open up a new terminal window, it should load jessiegouw-dotfiles.
 
 ### Resources
