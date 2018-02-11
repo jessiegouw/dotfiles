@@ -8,19 +8,18 @@ These are my dotfiles.
 * install.sh
 
 ## Manual installation
-1. Clone my repository
+1. __Clone my repository__
 ```sh
 git clone https://github.com/jessiegouw/jessiegouw-dotfiles
 ```
 
-2. Change your default shell
+2. __Change your default shell__
 ```sh
 chsh -s /bin/jessiegouw-dotfiles
 ```
 
-3. Change your default shell
+3. __Initialize your new jessiegouw-dotfiles configuration__
 Once you open up a new terminal window, it should load jessiegouw-dotfiles.
-
 
 ### Resources
 * [Getting Started With Dotfiles, Lars Kappert](https://medium.com/@webprolific/getting-started-with-dotfiles-43c3602fd789)
