@@ -1,13 +1,26 @@
 # dotfiles
 These are my dotfiles.
 
-### .alias
+### directory structure
+* .alias
+* .bash_prompt
+* .gitignore
+* install.sh
 
-### .bash_prompt
+## Manual installation
+1. Clone my repository
+```sh
+git clone https://github.com/jessiegouw/jessiegouw-dotfiles
+```
 
-### .gitignore
+2. Change your default shell
+```sh
+chsh -s /bin/jessiegouw-dotfiles
+```
 
-### install.sh
+3. Change your default shell
+Once you open up a new terminal window, it should load jessiegouw-dotfiles.
+
 
 ### Resources
 * [Getting Started With Dotfiles, Lars Kappert](https://medium.com/@webprolific/getting-started-with-dotfiles-43c3602fd789)
