@@ -17,13 +17,13 @@ jessiegouw-dotfiles is installed by running one of the following commands in you
 #### via curl
 
 ```shell
-sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/jessiegouw-dotfiles/install.sh)"
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/jessiegouw/dotfiles/install.sh)"
 ```
 
 #### via wget
 
 ```shell
-sh -c "$(wget https://raw.githubusercontent.com/robbyrussell/jessiegouw-dotfiles/install.sh -O -)"
+sh -c "$(wget https://raw.githubusercontent.com/jessiegouw/dotfiles/install.sh -O -)"
 ```
 
 
