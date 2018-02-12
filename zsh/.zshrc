@@ -108,7 +108,7 @@ export APPLICATION_ENV="development"
 # ssh
 # export SSH_KEY_PATH="~/.ssh/dsa_id"
 ### Added by the Heroku Toolbelt
-#export PATH=/usr/local/opt/php56/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/matthijs
+#export PATH=/usr/local/opt/php56/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/jessiegouw
 export NVM_DIR="/Users/jessiegouw/.nvm"
 [ -s "$NVM_DIR/nvm.sh" ] && . "$NVM_DIR/nvm.sh"  # This loads nvm
 export PATH="/usr/local/sbin:$PATH"
