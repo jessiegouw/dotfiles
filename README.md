@@ -32,3 +32,4 @@ Once you open up a new terminal window, it should load jessiegouw-dotfiles.
 * [dotfiles, Mathias Bynens](https://github.com/mathiasbynens/dotfiles)
 * [dotfiles, Zach Holman](https://github.com/holman/dotfiles)
 * [dotfiles, Lars Kappert](https://github.com/webpro/dotfiles)
+* [dotfiles for development, Andrej Mihaliak](https://github.com/mihaliak/dotfiles)
