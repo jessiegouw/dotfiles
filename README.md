@@ -7,20 +7,22 @@ These are my dotfiles.
 * .gitignore
 * install.sh
 
-## Manual installation
-1. __Clone my repository__
-```sh
-git clone https://github.com/jessiegouw/jessiegouw-dotfiles
+### Basic Installation
+
+jessiegouw-dotfiles is installed by running one of the following commands in your terminal. You can install this via the command-line with either `curl` or `wget`.
+
+#### via curl
+
+```shell
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/jessiegouw-dotfiles/install.sh)"
 ```
 
-2. __Change your default shell__
-```sh
-chsh -s /bin/jessiegouw-dotfiles
+#### via wget
+
+```shell
+sh -c "$(wget https://raw.githubusercontent.com/robbyrussell/jessiegouw-dotfiles/install.sh -O -)"
 ```
 
-3. __Initialize your new jessiegouw-dotfiles configuration__
-
-Once you open up a new terminal window, it should load jessiegouw-dotfiles.
 
 ### Resources
 * [Getting Started With Dotfiles, Lars Kappert](https://medium.com/@webprolific/getting-started-with-dotfiles-43c3602fd789)
