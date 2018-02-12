@@ -1,5 +1,6 @@
 # dotfiles
 These are my dotfiles.
+![terminal](https://github.com/jessiegouw/dotfiles/terminal.png)
 
 ### Directory structure
 * git
@@ -25,7 +26,6 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/jessiegouw/dotfiles/instal
 ```shell
 sh -c "$(wget https://raw.githubusercontent.com/jessiegouw/dotfiles/install.sh -O -)"
 ```
-
 
 ### Resources
 * [Getting Started With Dotfiles, Lars Kappert](https://medium.com/@webprolific/getting-started-with-dotfiles-43c3602fd789)
