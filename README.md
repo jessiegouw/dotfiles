@@ -2,7 +2,7 @@
 These are my dotfiles.
 
 ### directory structure
-* github
+* git
     * .gitconfig
     * .gitignore_global
 * zsh
