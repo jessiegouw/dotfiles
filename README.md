@@ -2,9 +2,12 @@
 These are my dotfiles.
 
 ### directory structure
-* .alias
-* .bash_prompt
-* .gitignore
+* github
+    * .gitconfig
+    * .gitignore_global
+* zsh
+    * .zshrc
+* bash_profile
 * install.sh
 
 ### Basic Installation
