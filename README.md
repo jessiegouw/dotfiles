@@ -1,8 +1,8 @@
 # dotfiles
 These are my dotfiles.
-![terminal](https://github.com/jessiegouw/dotfiles/terminal.png)
+![terminal](./terminal.png)
 
-### Directory structure
+## Directory structure
 * git
     * .gitconfig
     * .gitignore_global
@@ -11,7 +11,7 @@ These are my dotfiles.
 * bash_profile
 * install.sh
 
-### Basic Installation
+## Basic Installation
 
 jessiegouw-dotfiles is installed by running one of the following commands in your terminal. You can install this via the command-line with either `curl` or `wget`.
 
@@ -26,6 +26,9 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/jessiegouw/dotfiles/instal
 ```shell
 sh -c "$(wget https://raw.githubusercontent.com/jessiegouw/dotfiles/install.sh -O -)"
 ```
+
+## Theme
+* [ys](http://blog.ysmood.org/my-ys-terminal-theme/)
 
 ### Resources
 * [Getting Started With Dotfiles, Lars Kappert](https://medium.com/@webprolific/getting-started-with-dotfiles-43c3602fd789)
