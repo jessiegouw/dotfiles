@@ -113,3 +113,20 @@ export NVM_DIR="/Users/jessiegouw/.nvm"
 [ -s "$NVM_DIR/nvm.sh" ] && . "$NVM_DIR/nvm.sh"  # This loads nvm
 export PATH="/usr/local/sbin:$PATH"
 export PATH="/usr/local/opt/node@6/bin:$PATH"
+
+# This part is sort of my own code
+
+echo "Do what you can't 💪🏼"
+
+PROMPT="
+%{$terminfo[bold]$fg[blue]%}#%{$reset_color%} \
+%(#,%{$bg[yellow]%}%{$fg[black]%}%n%{$reset_color%},%{$fg[cyan]%}%n) 🍚 \
+%{$fg[white]%}@ \
+%{$fg[green]%}%m \
+%{$fg[white]%}in \
+%{$terminfo[bold]$fg[yellow]%}%~%{$reset_color%}\
+${hg_info}\
+${git_info}\
+ \
+%{$fg[white]%}[%*] $exit_code
+%{$terminfo[bold]$fg[red]%}$ %{$reset_color%}"
