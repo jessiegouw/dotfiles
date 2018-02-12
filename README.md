@@ -1,5 +1,5 @@
 # dotfiles
-These are my dotfiles.
+These are my dotfiles, I chose the 'ys' theme from [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) because it is clean and simple.
 ![terminal](./terminal.png)
 
 ## Directory structure
