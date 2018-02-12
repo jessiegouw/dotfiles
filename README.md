@@ -1,7 +1,7 @@
 # dotfiles
 These are my dotfiles.
 
-### directory structure
+### Directory structure
 * git
     * .gitconfig
     * .gitignore_global
