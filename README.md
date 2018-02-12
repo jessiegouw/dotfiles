@@ -26,6 +26,7 @@ Once you open up a new terminal window, it should load jessiegouw-dotfiles.
 * [Getting Started With Dotfiles, Lars Kappert](https://medium.com/@webprolific/getting-started-with-dotfiles-43c3602fd789)
 * [Getting Started with Dotfiles, Dries Vints](https://zachholman.com/2010/08/dotfiles-are-meant-to-be-forked/)
 * [Dotfiles Are Meant to Be Forked, Zach Holman](https://zachholman.com/2010/08/dotfiles-are-meant-to-be-forked/)
+* [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
 
 ### Inspiration
 * [dotfiles, Github](https://dotfiles.github.io/)
@@ -33,3 +34,9 @@ Once you open up a new terminal window, it should load jessiegouw-dotfiles.
 * [dotfiles, Zach Holman](https://github.com/holman/dotfiles)
 * [dotfiles, Lars Kappert](https://github.com/webpro/dotfiles)
 * [dotfiles for development, Andrej Mihaliak](https://github.com/mihaliak/dotfiles)
+
+## License
+The MIT License (MIT)
+
+Copyright (c) 2009-2017 Robby Russell and contributors
+See the full list at https://github.com/robbyrussell/oh-my-zsh/contributors
