@@ -26,8 +26,8 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/jessiegouw/dotfiles/instal
 ```shell
 sh -c "$(wget https://raw.githubusercontent.com/jessiegouw/dotfiles/install.sh -O -)"
 ```
-
-## Theme
+## Sources
+### Theme
 * [ys](http://blog.ysmood.org/my-ys-terminal-theme/)
 
 ### Resources
