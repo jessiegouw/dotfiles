@@ -48,8 +48,6 @@ alias gp='git pull'
 alias gps='git push'
 alias ggpsp='grunt build && git push origin production'
 alias gpsm='git push origin master'
-alias gpl='git pull'
-alias gmds='git pull && git push && git checkout staging && git pull && git merge develop && git push && git checkout develop'
 alias glog='git log --graph --all --format=format:"%x1b[36m%h%C(reset) - %C(bold green)(%cr)%C(reset) %C(white)%s%C(reset) %C(bold white)‚Äö√Ñ√Æ %cn%C(reset)%C(bold yellow)%d%C(reset)" --abbrev-commit --date=relative'
 ## Laravel aliases
 alias art='php artisan'
